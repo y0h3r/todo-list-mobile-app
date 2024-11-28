@@ -23,6 +23,13 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-localization",
+      "expo-router"
+    ],
+    "experiments": {
+      "tsconfigPaths": true
     }
   }
 }
