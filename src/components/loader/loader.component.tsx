@@ -1,8 +1,8 @@
 import React, { FC } from 'react';
+import { View } from 'react-native';
 import LottieView from 'lottie-react-native';
 
 import { styles } from './loader.styles';
-import { View } from 'react-native';
 
 type LoaderProps = {
   show: boolean;

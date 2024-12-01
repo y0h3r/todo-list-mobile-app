@@ -1,0 +1,22 @@
+{
+  "es": {
+    "title": "Inicio de sesion",
+    "welcome_back": "Bienvenido de nuevo",
+    "greet": "Hola, inicia sesión para continuar",
+    "user": "Usuario",
+    "password": "Contraseña",
+    "sign_in": "Iniciar sesión",
+    "forgot_password": "¿Olvidaste tu contraseña?",
+    "sign_up": "Registrarse"
+  },
+  "en": {
+    "title": "Login",
+    "welcome_back": "Welcome Back",
+    "greet": "Hello there, sign in to continue",
+    "user": "User",
+    "password": "Password",
+    "sign_in": "Sign in",
+    "forgot_password": "Forgot your password ?",
+    "sign_up": "Sign up"
+  }
+}
